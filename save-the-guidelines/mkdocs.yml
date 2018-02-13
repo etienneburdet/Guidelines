@@ -5,10 +5,10 @@ theme:
     primary: 'red'
     accent: 'red'
 
-# Extensions
 markdown_extensions:
   - admonition
-  
+  - pymdownx.details
+
 # Pages Tree
 pages:
 - Home: 'index.md'
