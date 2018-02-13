@@ -1,4 +1,4 @@
-# LOOOOOOOOOOL
+# Major Subdivision Guidelines
 
 ## Tergore aut
 

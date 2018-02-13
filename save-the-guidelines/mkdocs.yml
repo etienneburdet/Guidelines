@@ -1,3 +1,22 @@
 site_name: My Docs
 theme:
   name: material
+  palette:
+    primary: 'red'
+    accent: 'red'
+
+# Extensions
+markdown_extensions:
+  - admonition
+  
+# Pages Tree
+pages:
+- Home: 'index.md'
+- About: 'about.md'
+- Assets:
+    - 'Waterfront': 'assets/waterfront.md'
+    - 'Green': 'assets/waterfront.md'
+    - 'Heritage': 'assets/waterfront.md'
+- Projects:
+    - 'Mega Projects': 'projects/mega.md'
+    - 'Major Subdivisions': 'projects/major.md'

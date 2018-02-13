@@ -1,4 +1,6 @@
-# Welcome to MkDocs
+# Welcome to the Guidelines
+# Waterfront
+# Green
 
 For full documentation visit [mkdocs.org](http://mkdocs.org).
 

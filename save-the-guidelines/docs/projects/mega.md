@@ -1,4 +1,4 @@
-# LOOOOOOOOOOL
+# Mega Projects Guidelines
 
 ## Tergore aut
 

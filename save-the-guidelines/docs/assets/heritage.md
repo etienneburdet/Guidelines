@@ -1,4 +1,4 @@
-# LOOOOOOOOOOL
+# Heritage Guidelines
 
 ## Tergore aut
 
