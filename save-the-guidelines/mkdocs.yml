@@ -1,9 +1,11 @@
-site_name: My Docs
+site_name: Urban Guidelines
 theme:
   name: material
   palette:
     primary: 'red'
     accent: 'red'
+  feature:
+    tabs: true
 
 markdown_extensions:
   - admonition
@@ -11,17 +13,21 @@ markdown_extensions:
 
 # Pages Tree
 pages:
-- Home: 'index.md'
-- About: 'about.md'
-- Assets:
-    - 'Waterfront':
-      - 'Introduction': 'assets\waterfront\Introduction.md'
-      - 'Mixed-use Developments': 'assets\waterfront\Favour-mixed-use-development.md'
-      - 'Public Access': 'assets\waterfront\Ensure-public-access-to-the-waterfront.md'
-      - 'Stage the WaterFront': 'assets\waterfront\Stage-the-waterfront.md'
-      - 'Sustainability': 'assets\waterfront\Stage-the-waterfront.md'
-    - 'Green': 'assets/waterfront.md'
-    - 'Heritage': 'assets/waterfront.md'
-- Projects:
-    - 'Mega Projects': 'projects/mega.md'
-    - 'Major Subdivisions': 'projects/major.md'
+- Home: index.md
+- About the guidelines: 'about.md'
+- 'Mega Projects':
+  - 'Mega Projects': 'mega.md'
+- 'Major Subdivisions':
+  - 'Major Subdivisions': 'major.md'
+- 'Waterfront':
+  - 'Introduction': 'waterfront\Introduction.md'
+  - 'Mixed-use Developments': 'waterfront\Favour-mixed-use-development.md'
+  - 'Public Access': 'waterfront\Ensure-public-access-to-the-waterfront.md'
+  - 'Stage the WaterFront': 'waterfront\Stage-the-waterfront.md'
+  - 'Sustainability': 'waterfront\Stage-the-waterfront.md'
+- 'Green':
+  - Lorem: 'green.md'
+  - Lorem: 'green.md'
+- 'Heritage':
+  - Lorem: 'heritage.md'
+  - Lorem: 'heritage.md'

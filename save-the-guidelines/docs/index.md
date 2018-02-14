@@ -1,19 +1,6 @@
-# Welcome to the Guidelines
-# Waterfront
-# Green
-
-For full documentation visit [mkdocs.org](http://mkdocs.org).
-
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs help` - Print this help message.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+# Introduction
+![Mega Projects](img/MP.png)
+![Major Subdivisions](img/MP.png)
+[![Waterfront](img/WTF.png)](waterfront\Introduction.md)
+![Green](img/Green.png)
+![Heritage](img/Heritage.png)
