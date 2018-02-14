@@ -14,7 +14,12 @@ pages:
 - Home: 'index.md'
 - About: 'about.md'
 - Assets:
-    - 'Waterfront': 'assets/waterfront.md'
+    - 'Waterfront':
+      - 'Introduction': 'assets\waterfront\Introduction.md'
+      - 'Mixed-use Developments': 'assets\waterfront\Favour-mixed-use-development.md'
+      - 'Public Access': 'assets\waterfront\Ensure-public-access-to-the-waterfront.md'
+      - 'Stage the WaterFront': 'assets\waterfront\Stage-the-waterfront.md'
+      - 'Sustainability': 'assets\waterfront\Stage-the-waterfront.md'
     - 'Green': 'assets/waterfront.md'
     - 'Heritage': 'assets/waterfront.md'
 - Projects:
